@@ -24,6 +24,7 @@ These experiments aimed to identify the trade-offs between model accuracy, bit p
     - (a) quantization of weights and biases  (The file is just the model name and the bits, POOL_12bits.ipynb)
     - (b) quantization of weights, biases, and activations  (The file starts with f then the name and then the bits, f_POOL_12bits.ipynb)
   - **Quantization-Aware Training (QAT)** using *QKeras*  (The file starts with QKeras then the name and then the bits, QKeras_PLAT_12bits.ipynb)
+- The names of the folders where the trained models are saved doesn't much the name of the models
 - Analysis of **accuracy vs. hardware efficiency** trade-offs for FPGA deployment  
 - Export-ready *hls4ml* configurations for synthesis in **Xilinx Vivado / Vitis HLS**
 
