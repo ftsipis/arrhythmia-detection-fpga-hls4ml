@@ -32,3 +32,35 @@ These experiments aimed to identify the trade-offs between model accuracy, bit p
 
 ## How to Use
 
+Follow the steps below to set up the environment, prepare the dataset, and run the models.
+
+---
+
+### 1. Clone the repository
+```bash
+git clone git@github.com:yourusername/On-the-Implementation-of-Low-Cost-Neural-Network-Models-for-Cardiac-Arrhythmia-Detection.git
+cd On-the-Implementation-of-Low-Cost-Neural-Network-Models-for-Cardiac-Arrhythmia-Detection
+```
+
+### 2. Set up the environment
+Using Conda (recommended):
+```bash
+conda env create -f environment.yml
+conda activate arrhythmia
+```
+
+or using pip:
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Make a folder named hls4ml
+This folder is used to save the hls4ml ganerated files.
+```bash
+mkdir hls4ml
+```
+
+### 4. Launch Jupyter Notebook
+```bash
+jupyter notebook
+```

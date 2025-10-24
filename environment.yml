@@ -1,3 +1,4 @@
+name: arrhythmia
 channels:
   - conda-forge
   - defaults
