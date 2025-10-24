@@ -64,3 +64,6 @@ mkdir hls4ml
 ```bash
 jupyter notebook
 ```
+
+### 5. Execute
+Open the desired notebook and execute all cells in order.
