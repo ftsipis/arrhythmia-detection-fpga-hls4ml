@@ -39,8 +39,8 @@ Follow the steps below to set up the environment, prepare the dataset, and run t
 
 ### 1. Clone the repository
 ```bash
-git clone git@github.com:yourusername/On-the-Implementation-of-Low-Cost-Neural-Network-Models-for-Cardiac-Arrhythmia-Detection.git
-cd On-the-Implementation-of-Low-Cost-Neural-Network-Models-for-Cardiac-Arrhythmia-Detection
+git clone git@github.com:ftsipis/arrhythmia-detection-fpga-hls4ml.git
+cd arrhythmia-detection-fpga-hls4ml
 ```
 
 ### 2. Set up the environment
