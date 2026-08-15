@@ -73,4 +73,4 @@ Open the desired notebook and execute all cells in order.
 
 **On the Implementation of Low-Cost Neural Network Models for Cardiac Arrhythmia Detection** — *2026 IEEE International Symposium on Circuits and Systems (ISCAS)*
 
-DOI: 
+DOI: https://doi.org/10.1109/ISCAS66217.2026.11562820
