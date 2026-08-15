@@ -68,3 +68,9 @@ jupyter notebook
 
 ### 5. Execute
 Open the desired notebook and execute all cells in order.
+
+## Paper
+
+**On the Implementation of Low-Cost Neural Network Models for Cardiac Arrhythmia Detection** — *2026 IEEE International Symposium on Circuits and Systems (ISCAS)*
+
+DOI: 
